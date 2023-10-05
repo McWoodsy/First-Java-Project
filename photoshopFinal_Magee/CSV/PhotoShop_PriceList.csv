@@ -1,0 +1,18 @@
+1;Paper 10 x 15 mat;1.40;1
+2;Paper 10 x 15 high gloss;1.50;1
+3;Paper 30 x 40 mat;4.50;02
+4;Paper30 x 40 high gloss;5.00;2
+5;Canvas 30 x 40 mat;24.00;12
+6;Canvas 30 x 40 high gloss;27.50;12
+7;Canvas 100 x 150 mat;64.75;16
+8;Canvas 100 x 150 high gloss;72.50;16
+9;Glass 30 x 40 mat;27.50;14
+10;Glass 30 x 40 high gloss;27.50;14
+11;Glass 100 x 150 mat;82.50;20
+12;Glass 100 x 150 high gloss;82.50;20
+
+   
+                    // for (Item iterator : chosenItems) {
+            //     System.out.println(iterator.getName());
+            //     System.out.println();
+            // }

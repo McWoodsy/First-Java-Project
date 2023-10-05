@@ -1,0 +1,58 @@
+{
+    "Bruce Wayne": {
+        "Street and house number": "Gothem Avenue 9",
+        "Email": "notthebatman@gmail.com",
+        "Phone number": "542555147",
+        "City": "Gotham",
+        "Postcode": "5452GC"
+    },
+    "Michael Magee": {
+        "Street and house number": "Ijburglaan 585",
+        "Email": "mag@gmail",
+        "Phone number": "2582547",
+        "City": "Belfast",
+        "Postcode": "fs85200"
+    },
+    "Marshall Mathers": {
+        "Street and house number": "65 Detroit Ave",
+        "Email": "yoyo@rapmail.com",
+        "Phone number": "0145444",
+        "City": "Detroit",
+        "Postcode": "6457fa"
+    },
+    "Halle Berry": {
+        "Street and house number": "Hollywood blvd 76",
+        "Email": "catlover@hotmail.com",
+        "Phone number": "789512",
+        "City": "Los Angeles",
+        "Postcode": "90210"
+    },
+    "Bob Urunkel": {
+        "Street and house number": "Uncle Avenue 52",
+        "Email": "bobbyuru@hotmail.com",
+        "Phone number": "32156545",
+        "City": "TowneVille",
+        "Postcode": "2571LK"
+    },
+    "Tom Jerry": {
+        "Street and house number": "WhackStreet 32",
+        "Email": "mousekillaTJ@gmail.com",
+        "Phone number": "0654133621",
+        "City": "Springfield",
+        "Postcode": "1349GD"
+    },
+    "Daniel McMuffin": {
+        "Street and house number": "Cookie Avenue 112",
+        "Email": "muffinman@muffinmail.mf",
+        "Phone number": "545698",
+        "City": "Gluton",
+        "Postcode": "CKIE3124"
+    },
+    "Abraham Lincoln": {
+        "Street and house number": "Presidential Street 30",
+        "Email": "abeybaby@whitehouse.gov",
+        "Phone number": "005551776",
+        "City": "Washington D.C.",
+        "Postcode": "3725WH"
+    }
+}
